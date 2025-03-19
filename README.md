@@ -21,7 +21,7 @@ This project implements **credit card fraud detection** using a **Long Short-Ter
 
 ### 🔹 Step 1: Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+git clone https://github.com/toshankanwar/Credit-Card-Fraud-Detection.git
 cd Credit-Card-Fraud-Detection
 
 ```
